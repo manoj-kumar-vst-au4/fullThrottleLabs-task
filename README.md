@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is live. [Click Here](https://manoj-fullthrottle-task.netlify.app/).
+
+This is a project where, there is a list of users and when click on anyone click on user, modal will popup where can see users active timing by enter date of that day.
+
+I have usede bootsrap for styling and also for Modal creation.
+
+I have used javascript library called reactjs to create this project.
 
 ## Available Scripts
 
